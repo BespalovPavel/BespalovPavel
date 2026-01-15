@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ B.Sc. in Applied Mathematics and Informatics<br>       P.G. Demidov Yaroslavl State University<br>📚 I'm currently studying websockets, microservices, and system design</p>
+<p align="left">✨ B.Sc. in Applied Mathematics and Informatics (*P.G. Demidov Yaroslavl State University*)<br>📚 I'm currently studying websockets, microservices, and system design</p>
 
 ###
 
